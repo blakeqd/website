@@ -19,7 +19,7 @@
                 </div>
                 <div class="six columns">
                     <div class="text">
-                        Hello world! I'm a software developer who was brought up in the frozen depths of Northern Ontario. I obtained a computer science degree from Laurentian University, and have since decided to remain in the wintery climate of the north spending my days building software. When not working on side projects, I can be found in the gym or cheering for the Toronto Raptors.
+                        Hello world! I'm a software developer who was raised in the frozen depths of Northern Ontario. I obtained an undergraduate degree in computer science from Laurentian University. Since graduating, I've decided to remain in the North spending my days building software. When not working on side projects, I can be found in the gym or cheering for the Toronto Raptors.
                     </div>
                 </div>
                 <div class="three columns">

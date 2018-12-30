@@ -20,15 +20,20 @@
                     <h2 class="job-title">Software Developer</h2>
                     <div class="blurb">
                         <p>
-                            My passion is building software that brings you value, whether it be a tool that helps you do your job, saves you time, or gives you insight into your data.
+                            My passion is building software that brings you value; whether it be a tool that helps you do your job, saves you time, or gives insight into your data.
                             Software is something that should help make your life easier. 
                             Working primarily on projects in the mining industry, a common requirement I encounter is the need to bring older processes to the digital era. 
-                            Instead of capturing data in excel or using pen-and-paper, I have helped build solutions where data is captured using digital forms and fed into dashboards, reports, and web applications that allow users to analyze the data, study trends, and view metrics.
+                            Instead of capturing data in excel or using pen-and-paper, I have built solutions where data is captured using digital forms and fed into dashboards, reports, and web applications that allow users to analyze the data, study trends, and view metrics.
                         </p> 
 
                         <p>
                             I have lead the development of software projects consisting of web applications (AngularJS, JQuery, Javascript, ASP.NET), desktop software (.NET Stack), reporting and business intelligence (SQL Server Reporting Services, Business Objects), and database architecture (SQL Server). 
-                            I have also worked with customers to gather requirements, define project scope, and plan development sprints.
+                            I have also worked with customers to gather their expectations and their software requirements, define project scope, and plan development sprints.
+                        </p>
+
+                        <p>
+                            I have lead the development of software projects consisting of web applications (AngularJS, JQuery, Javascript, ASP.NET), desktop software (.NET Stack), reporting and business intelligence (SQL Server Reporting Services, Business Objects), and database architecture (SQL Server).
+                            I have also worked with customers to gather their expectations and their software requirements, define project scope, and plan development sprints.
                         </p>
                     </div>
                 </div>

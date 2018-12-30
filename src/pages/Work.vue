@@ -11,7 +11,7 @@
             <div class="row">
                 <div class="one-third column project grey">
                     <div class="heading navy-font">Personal Website</div>
-                    <div class="link navy-font"><a href="https://www.linkedin.com/in/blake-quebec-4984a67b/" target="_blank">View code</a></div>
+                    <div class="link navy-font"><a href="https://github.com/blakeqd/website" target="_blank">View code</a></div>
                     <div class="heading">
                         <i class="devicon-vuejs-plain-wordmark colored"></i>
                     </div>
@@ -22,7 +22,7 @@
                     <div class="link in-dev navy-font">In progress</div>
                     <div class="heading">
                         <i class="devicon-vuejs-plain-wordmark colored"></i>
-                        <i class="devicon-sequelize-plain colored"></i>
+                        <!--<i class="devicon-sequelize-plain colored"></i>-->
                         <i class="devicon-nodejs-plain colored"></i>
                     </div>
                     Dashboard for viewing your monthly budget. Currently in development, being built with Vue.js, Node.js (Express) and Sequelize.
@@ -31,7 +31,7 @@
                     <div class="heading navy-font">Innisfil Health Partners</div>
                     <div class="link navy-font"><a href="http://innhealth.ca" target="_blank">View project</a></div>
                     <div class="heading">
-                        <i class="devicon-html5-plain-wordmark colored"></i>
+                        <!--<i class="devicon-html5-plain-wordmark colored"></i>-->
                         <i class="devicon-jquery-plain-wordmark colored"></i>
                         <i class="devicon-bootstrap-plain-wordmark colored"></i>
                     </div>
@@ -42,7 +42,7 @@
             <div class="row">
                 <div class="one-third column project lightGrey">
                     <div class="heading navy-font">Tic Tac Toe</div>
-                    <div class="link navy-font"><a href="https://www.linkedin.com/in/blake-quebec-4984a67b/" target="_blank">View code</a></div>
+                    <div class="link navy-font"><a href="https://github.com/blakeqd/react-tic-tac-toe" target="_blank">View code</a></div>
                     <div class="heading">
                         <i class="devicon-react-original-wordmark"></i>
                         <i class="devicon-typescript-plain colored"></i>
@@ -52,7 +52,7 @@
                 </div>
                 <div class="one-third column project grey">
                     <div class="heading navy-font">Steganographic Communication</div>
-                    <div class="link navy-font"><a href="https://www.linkedin.com/in/blake-quebec-4984a67b/" target="_blank">View code</a></div>
+                    <div class="link navy-font"><a href="https://github.com/blakeqd/steganographic-communication" target="_blank">View code</a></div>
                     <div class="heading">
                         <i class="devicon-java-plain-wordmark colored"></i>
                     </div>
