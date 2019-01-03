@@ -30,11 +30,6 @@
                             I have lead the development of software projects consisting of web applications (AngularJS, JQuery, Javascript, ASP.NET), desktop software (.NET Stack), reporting and business intelligence (SQL Server Reporting Services, Business Objects), and database architecture (SQL Server). 
                             I have also worked with customers to gather their expectations and their software requirements, define project scope, and plan development sprints.
                         </p>
-
-                        <p>
-                            I have lead the development of software projects consisting of web applications (AngularJS, JQuery, Javascript, ASP.NET), desktop software (.NET Stack), reporting and business intelligence (SQL Server Reporting Services, Business Objects), and database architecture (SQL Server).
-                            I have also worked with customers to gather their expectations and their software requirements, define project scope, and plan development sprints.
-                        </p>
                     </div>
                 </div>
             </div>
@@ -58,7 +53,7 @@
                         <h1>Experiences</h1>
                         <Cube colour="About" id="experiences"></Cube>
                         <ul>
-                            .NET Application development inclduing ASP.NET Core, WPF, and Windows Forms with Dapper and Entity Framework ORMs.
+                            .NET Application development including ASP.NET Core, WPF, and Windows Forms with Dapper and Entity Framework ORMs.
                         </ul>
                         <ul>Web development with Vue.js, AngularJS, JQuery, Javascript, HTML, CSS, and Bootstrap.</ul>
                         <ul>Database development with SQL Server and reporting using SQL Server Reporting Services and SAP's BusinessObjects Web Intelligence.</ul>

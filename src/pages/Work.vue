@@ -9,28 +9,28 @@
             <link rel="stylesheet" href="https://cdn.rawgit.com/konpa/devicon/df6431e323547add1b4cf45992913f15286456d3/devicon.min.css">
 
             <div class="row">
-                <div class="one-third column project grey">
-                    <div class="heading navy-font">Personal Website</div>
+                <div class="one-third column project">
+                    <div class="heading project-title navy-font">Personal Website</div>
                     <div class="link navy-font"><a href="https://github.com/blakeqd/website" target="_blank">View code</a></div>
-                    <div class="heading">
+                    <div class="heading dev-icon">
                         <i class="devicon-vuejs-plain-wordmark colored"></i>
                     </div>
                     A personal website I put together to showcase who I am. You are on this site right now! I used this project as a learning experience for the javascript framework Vue.js.
                 </div>
-                <div class="one-third column project lightGrey">
-                    <div class="heading navy-font">Money Mgmt</div>
+                <div class="one-third column project">
+                    <div class="heading project-title navy-font">Money Mgmt</div>
                     <div class="link in-dev navy-font">In progress</div>
-                    <div class="heading">
+                    <div class="heading dev-icon">
                         <i class="devicon-vuejs-plain-wordmark colored"></i>
                         <!--<i class="devicon-sequelize-plain colored"></i>-->
                         <i class="devicon-nodejs-plain colored"></i>
                     </div>
                     Dashboard for viewing your monthly budget. Currently in development, being built with Vue.js, Node.js (Express) and Sequelize.
                 </div>
-                <div class="one-third column project grey">
-                    <div class="heading navy-font">Innisfil Health Partners</div>
+                <div class="one-third column project">
+                    <div class="heading project-title navy-font">Innisfil Health Partners</div>
                     <div class="link navy-font"><a href="http://innhealth.ca" target="_blank">View project</a></div>
-                    <div class="heading">
+                    <div class="heading dev-icon">
                         <!--<i class="devicon-html5-plain-wordmark colored"></i>-->
                         <i class="devicon-jquery-plain-wordmark colored"></i>
                         <i class="devicon-bootstrap-plain-wordmark colored"></i>
@@ -40,20 +40,20 @@
                 </div>
             </div>
             <div class="row">
-                <div class="one-third column project lightGrey">
-                    <div class="heading navy-font">Tic Tac Toe</div>
+                <div class="one-third column project">
+                    <div class="heading project-title navy-font">Tic Tac Toe</div>
                     <div class="link navy-font"><a href="https://github.com/blakeqd/react-tic-tac-toe" target="_blank">View code</a></div>
-                    <div class="heading">
+                    <div class="heading dev-icon">
                         <i class="devicon-react-original-wordmark"></i>
                         <i class="devicon-typescript-plain colored"></i>
                     </div>
 
                     Simple Tic Tac Toe game created using React and TypeScript.
                 </div>
-                <div class="one-third column project grey">
-                    <div class="heading navy-font">Steganographic Communication</div>
+                <div class="one-third column project">
+                    <div class="heading project-title navy-font">Steganographic Communication</div>
                     <div class="link navy-font"><a href="https://github.com/blakeqd/steganographic-communication" target="_blank">View code</a></div>
-                    <div class="heading">
+                    <div class="heading dev-icon">
                         <i class="devicon-java-plain-wordmark colored"></i>
                     </div>
 
@@ -86,12 +86,21 @@
         padding: 20px 25px;
         opacity: .85;
         text-align: center;
+        border-radius: 8px;
     }
 
     .heading {
         font-weight: bold; 
         text-align: center;
         margin-bottom: 5px;
+    }
+
+    .project-title {
+        margin-bottom: 0;
+    }
+
+    .dev-icon {
+        margin-bottom: 19px;
     }
 
     h1 {
@@ -121,7 +130,7 @@
         font-size: 14px;
         color: var(--blue);
         text-decoration: underline;
-        margin-bottom: 10px;
+        margin-bottom: 22px;
     }
 
     .link.in-dev {

@@ -99,8 +99,8 @@ export default {
     }
 
     body {
-        font-size: 18px;
-        color: var(--navy);
+        /*font-size: 18px;*/
+        color: var(--navy) !important;
     }
 
     i {
@@ -148,7 +148,7 @@ export default {
 
     @media (min-width: 1200px) {
         h1 {
-            font-size: 4rem;
+            /*font-size: 4rem;*/
         }
     }
 
@@ -184,8 +184,8 @@ export default {
 
     h2 {
         color: var(--blue);
-        font-size: 3rem;
-        font-weight: bold;
+        /*font-size: 3rem;
+        font-weight: bold;*/
         margin: 0px;
         padding: 0px;
         margin-bottom: 5px;
