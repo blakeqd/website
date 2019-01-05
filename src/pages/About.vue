@@ -7,7 +7,7 @@
                     <h1 class="title">About</h1>
                     <h1 class="name">Blake Quebec</h1>
                     <div class="contact">
-                        <h6 class="email">blake.quebec <span class="bot">[at]</span> gmail <span class="bot">[dot]</span> com</h6>
+                        <h6 class="email">blake.quebec@gmail.com</h6>
                         <div><a href="https://www.linkedin.com/in/blake-quebec-4984a67b/" target="_blank"><img class="linkedin" src="../assets/linkedin_svg.svg" /></a></div>
                     </div>
                 </div>
